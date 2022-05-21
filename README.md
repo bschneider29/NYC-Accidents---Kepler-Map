@@ -2,7 +2,7 @@
 
 Developed to visualize car accidents within NYC using Kepler GL and Python.
 
-Each Kepler graph is redisgned using the Kepler GUI.
+Each Kepler graph is designed using the Kepler GUI.
 
 Information about Kepler found here: https://kepler.gl/
 
